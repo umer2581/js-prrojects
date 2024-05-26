@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+    font-size:xx-large;
+}
+h1{
+    color: goldenrod;
+}
+#message-el
+{
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    height: 50px;
+    font-size:medium;
+    background : goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 2px;
+}
